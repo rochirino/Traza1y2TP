@@ -1,3 +1,5 @@
+package Traza2;
+
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

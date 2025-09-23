@@ -1,3 +1,5 @@
+package Traza2;
+
 import lombok.Builder;
 
 import lombok.*;
@@ -15,7 +17,7 @@ import java.util.Set;
 @Getter
 
 @SuperBuilder
-public class ArticuloManufacturado  extends Articulo{
+public class ArticuloManufacturado  extends Articulo {
 
     private String descripcion;
     private Integer tiempoEstimadoMinutos;

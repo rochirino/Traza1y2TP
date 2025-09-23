@@ -1,10 +1,10 @@
+package Traza2;
+
 import lombok.*;
 import lombok.experimental.SuperBuilder;
 
 import java.util.HashSet;
 import java.util.Set;
-import lombok.*;
-import lombok.experimental.SuperBuilder;
 
 @SuperBuilder
 
@@ -25,6 +25,7 @@ public class Articulo {
     protected UnidadMedida unidadMedida;
     private Categoria categoria;
 }
+
     
     
     

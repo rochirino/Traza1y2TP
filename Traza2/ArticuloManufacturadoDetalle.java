@@ -1,3 +1,5 @@
+package Traza2;
+
 import lombok.*;
 import lombok.experimental.SuperBuilder;
 
