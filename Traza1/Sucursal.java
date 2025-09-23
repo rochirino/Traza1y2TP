@@ -13,6 +13,7 @@ import java.util.Set;
 @Getter
 @Setter
 @SuperBuilder
+@ToString
 public class Sucursal {
     private Long id;
     private String nombre;
@@ -23,6 +24,8 @@ public class Sucursal {
     private Domicilio domicilio;
 
     private Empresa empresa;
+
+
 
 }
 
